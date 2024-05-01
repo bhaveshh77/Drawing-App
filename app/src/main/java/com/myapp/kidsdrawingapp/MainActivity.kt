@@ -308,4 +308,6 @@ class MainActivity : AppCompatActivity() {
 
         getLauncher.launch("image/*")
     }
+
+//    Something changes!
 }
